@@ -7,4 +7,8 @@ Auto-Mate is BDD style Browser automation toolkit
   - Seamlessly connect with cloud 
   - Easy setup and portable 
 
-Stay tuned for the first major release
+Stay tuned for the first major release!!!
+
+Test the installation: 
+======================
+xvfb-run python Test.py
